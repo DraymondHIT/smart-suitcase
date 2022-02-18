@@ -1,0 +1,55 @@
+*** Creating Trace Output File 'TIMER.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"main.o"'
+### List of Objects: adding '"stm32f10x_it.o"'
+### List of Objects: adding '"system_stm32f10x.o"'
+### List of Objects: adding '"led.o"'
+### List of Objects: adding '"key.o"'
+### List of Objects: adding '"wdg.o"'
+### List of Objects: adding '"timer.o"'
+### List of Objects: adding '"ultrasonicwave.o"'
+### List of Objects: adding '"delay.o"'
+### List of Objects: adding '"sys.o"'
+### List of Objects: adding '"usart.o"'
+### List of Objects: adding '"core_cm3.o"'
+### List of Objects: adding '".\startup_stm32f10x_md.o"'
+### List of Objects: adding '"misc.o"'
+### List of Objects: adding '"stm32f10x_adc.o"'
+### List of Objects: adding '"stm32f10x_bkp.o"'
+### List of Objects: adding '"stm32f10x_can.o"'
+### List of Objects: adding '"stm32f10x_cec.o"'
+### List of Objects: adding '"stm32f10x_crc.o"'
+### List of Objects: adding '"stm32f10x_dac.o"'
+### List of Objects: adding '"stm32f10x_dbgmcu.o"'
+### List of Objects: adding '"stm32f10x_dma.o"'
+### List of Objects: adding '"stm32f10x_exti.o"'
+### List of Objects: adding '"stm32f10x_flash.o"'
+### List of Objects: adding '"stm32f10x_fsmc.o"'
+### List of Objects: adding '"stm32f10x_gpio.o"'
+### List of Objects: adding '"stm32f10x_i2c.o"'
+### List of Objects: adding '"stm32f10x_iwdg.o"'
+### List of Objects: adding '"stm32f10x_pwr.o"'
+### List of Objects: adding '"stm32f10x_rcc.o"'
+### List of Objects: adding '"stm32f10x_rtc.o"'
+### List of Objects: adding '"stm32f10x_sdio.o"'
+### List of Objects: adding '"stm32f10x_spi.o"'
+### List of Objects: adding '"stm32f10x_tim.o"'
+### List of Objects: adding '"stm32f10x_usart.o"'
+### List of Objects: adding '"stm32f10x_wwdg.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "main.o" "stm32f10x_it.o" "system_stm32f10x.o" "led.o" "key.o" "wdg.o" "timer.o" "ultrasonicwave.o" "delay.o" "sys.o" "usart.o" "core_cm3.o" ".\startup_stm32f10x_md.o" "misc.o" "stm32f10x_adc.o" "stm32f10x_bkp.o" "stm32f10x_can.o" "stm32f10x_cec.o" "stm32f10x_crc.o" "stm32f10x_dac.o" "stm32f10x_dbgmcu.o" "stm32f10x_dma.o" "stm32f10x_exti.o" "stm32f10x_flash.o" "stm32f10x_fsmc.o" "stm32f10x_gpio.o" "stm32f10x_i2c.o" "stm32f10x_iwdg.o" "stm32f10x_pwr.o" "stm32f10x_rcc.o" "stm32f10x_rtc.o" "stm32f10x_sdio.o" "stm32f10x_spi.o" "stm32f10x_tim.o" "stm32f10x_usart.o" "stm32f10x_wwdg.o" 
+--strict --scatter "TIMER.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\TIMER.map" -o TIMER.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'TIMER.axf'
+### ADS-LD Command File: 'TIMER.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'TIMER.lnp', Handle=0x000004A0
+### Writing '.lnp' file
+### ADS-LD Command file 'TIMER.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
